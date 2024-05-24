@@ -11,4 +11,4 @@ Calendar Integration 📅: Sync your planning schedule with your personal calend
 Why Choose Wedding Bliss Planners? 💕
 Planning a wedding can be overwhelming, but with Wedding Bliss Planners, you'll have everything you need at your fingertips. Our user-friendly interface ensures a seamless experience, allowing you to focus on what truly matters – celebrating love. Whether you're just starting your planning journey or finalizing the last details, our website is here to support you every step of the way.
 
-Visit Wedding Bliss Planners <a href="https://wedding-planner-s-site.vercel.app"> and start planning your dream wedding today! 🎉
+Visit <a href="https://wedding-planner-s-site.vercel.app"> Wedding Bliss Planners and start planning your dream wedding today! 🎉
